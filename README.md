@@ -3,8 +3,8 @@
 **This code automates login to a specific website using Selenium, and then screenshots the whole page, with the full height of the page if scrolled to the end.**
 
 # 1. Install/Import necessary Libraries
-**Install Libraries like Selenium which is the most important, it handles the automation.
-Import load_dotenv, which load the env file with your saved login, and others**
+**Install Libraries like Selenium which is the most important, it handles the automation**
+**Import load_dotenv, which load the env file with your saved login, and others**
 
 # 2. List out User agents
 **User agents are going to help avoid this script being blocked by the site from overloading**
