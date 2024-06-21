@@ -1,6 +1,6 @@
 # Automate Login and Screenshot using Python and Selenium
 
-# Prerequisites needed
+# Prerequisites/Dependencies needed
 **1. Environmental variable file with login credentials**
 
 **2. Chrome Webdriver**
