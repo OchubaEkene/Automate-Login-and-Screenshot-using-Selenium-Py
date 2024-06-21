@@ -4,7 +4,7 @@
 
 # 1. Install/Import necessary Libraries
 **Install Libraries like Selenium which is the most important, it handles the automation.
-Import load_dotenv, which load the env fiel with your saved login, and others**
+Import load_dotenv, which load the env file with your saved login, and others**
 
 # 2. List out User agents
 **User agents are going to help avoid this script being blocked by the site from overloading**
@@ -23,6 +23,23 @@ Import load_dotenv, which load the env fiel with your saved login, and others**
 
 # 7. Maximize Window for better view & performance
 
-# 8. Using the load_dotenv() method, load the .env file, which has the login credentials stored on it
+# 8. Using the load_dotenv() method, load the .env file
+**Load the env file that has the Username and Password stored on it**
 **Assign the Username and Password to two different Variables**
 
+# 9. Use WebDriverWait to ensure the page is given enough time to load
+
+# 10. Escape any Pop-up 
+**Escape any Pop-up using the click() and WebDriverWait function**
+
+# 11. Get the total height of the page
+**Use .execute_script and .scrollHeight to get the total height of the page**
+
+# 12. Take screenshot and save to path
+**Scroll and take screenshots of each page, and save to path using .save_screenshot**
+
+# 13. Stitch all screenshots together to form one
+**Take the width, form one Screenshot and finally save to path, using the .makedirs method**
+
+# 14. Quit the Web driver
+**Quit the Web driver using the .quit() method**
