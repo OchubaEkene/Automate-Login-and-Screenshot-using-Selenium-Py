@@ -1,5 +1,18 @@
 # Automate Login and Screenshot using Python and Selenium
 
+# Prerequisites needed
+**1. Environmental variable file with login credentials**
+**2. Chrome Webdriver**
+**3. Install Selenium**
+**4. Install dotenv and os**
+**5. Good Internet connection, and you are good to go!**
+
+# Setting up your environmental variable!
+**Create a file with your username stored in a variable called NAME, then password in a variable called PASSWORD, then make sure you save it as .env**
+
+# How to run the script!
+# To use the script, Install a Chrome Web driver with the same version as your chrome browser on your local machine and run it, open your IDE, run the code, relax and watch it work!
+
 **This code automates login to a specific website using Selenium, and then screenshots the whole page, with the full height of the page if scrolled to the end.**
 
 # 1. Install/Import necessary Libraries
