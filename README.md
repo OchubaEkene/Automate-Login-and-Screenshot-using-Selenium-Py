@@ -3,7 +3,6 @@
 # Prerequisites needed
 **1. Environmental variable file with login credentials**
 
-
 **2. Chrome Webdriver**
 **3. Install Selenium**
 **4. Install dotenv and os**
