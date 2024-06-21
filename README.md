@@ -17,20 +17,20 @@
 # How to run the script!
 **To use the script, Install a Chrome Web driver with the same version as your chrome browser on your local machine and run it, open your IDE, run the code, relax and watch it work!**
 
-**This code automates login to a specific website using Selenium, and then screenshots the whole page, with the full height of the page if scrolled to the end.**
+**This code automates login to a specific website using Selenium, and then screenshots the whole page, with the full height of the page if scrolled to the end**
 
 # 1. Install/Import necessary Libraries
-**Install Libraries like Selenium which is the most important, it handles the automation.**
+**Install Libraries like Selenium which is the most important, it handles the automation**
 
-**Import load_dotenv, which load the env file with your saved login, and others**
+**Import load_dotenv, which load the env file with your saved login, and others!**
 
 # 2. List out User agents
-**User agents are going to help avoid this script being blocked by the site from overloading.**
+**User agents are going to help avoid this script being blocked by the site from overloading**
 
 **Randomize the selection of User agents for it to work**
 
 # 3. Locate the downloaded Chrome WebDriver on the local system
-**Create a variable and store the path to the webdriver in order to load it.**
+**Create a variable and store the path to the webdriver in order to load it**
 
 **Use the service library to load it**
 
@@ -44,7 +44,7 @@
 # 7. Maximize Window for better view & performance
 
 # 8. Using the load_dotenv() method, load the .env file
-**Load the env file that has the Username and Password stored on it.**
+**Load the env file that has the Username and Password stored on it**
 
 **Assign the Username and Password to two different Variables**
 
