@@ -1,6 +1,6 @@
 # Automate Login and Screenshot using Python and Selenium
 
-# Prerequisites needed
+# Prerequisites needed /n
 **1. Environmental variable file with login credentials**
 **2. Chrome Webdriver**
 **3. Install Selenium**
@@ -8,7 +8,7 @@
 **5. Good Internet connection, and you are good to go!**
 
 # Setting up your environmental variable!
-**Create a file with your username stored in a variable called NAME, then password in a variable called PASSWORD, then make sure you save it as .env**
+**Create a file with your username stored in a variable called NAME, password in a variable called PASSWORD, then make sure you save it as .env**
 
 # How to run the script!
 # To use the script, Install a Chrome Web driver with the same version as your chrome browser on your local machine and run it, open your IDE, run the code, relax and watch it work!
